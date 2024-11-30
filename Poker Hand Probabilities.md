@@ -39,9 +39,9 @@ Below are the probabilities of each poker hand in a five-card hand:
 These probabilities are derived from **combinatorics**:
 
 - The total number of possible five-card hands:
-
+  
 $$
-C(52, 5) = \frac{52!}{5!(52-5)!} = 2,598,960
+\binom{52}{5} = \frac{52!}{5!(52-5)!} = 2,598,960
 $$
 
 Each specific hand type is calculated based on the ways to select cards to form that hand divided by the total number of hands.
@@ -51,7 +51,7 @@ For example:
 - Royal Flush:
 
 $$
-C(4, 1) = 4
+\binom{4}{1} = 4
 $$
 
 (Only 4 Royal Flushes are possible, one per suit.)
