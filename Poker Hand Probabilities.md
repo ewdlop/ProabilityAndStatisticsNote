@@ -83,33 +83,33 @@ A **Four of a Kind** is a poker hand consisting of:
    - There are 13 possible ranks ($$ \text{A, 2, 3, ..., K} $$).
    - We need to choose **one** rank for our Four of a Kind.
 
-   $$
-   \binom{13}{1} = 13
-   $$
+ $$
+ \binom{13}{1} = 13
+ $$
 
 2. **Choose the Rank for the Additional Card: $$ \binom{12}{1} $$**
    - After selecting the rank for the Four of a Kind, 12 ranks remain for the fifth card.
    - We need to choose **one** of these remaining ranks.
 
-   $$
-   \binom{12}{1} = 12
-   $$
+ $$
+ \binom{12}{1} = 12
+ $$
 
 3. **Choose All Four Suits for the Four of a Kind: $$ \binom{4}{4} $$**
    - For the Four of a Kind, we need all four suits (e.g., $$ \heartsuit, \clubsuit, \spadesuit, \diamondsuit $$).
    - There is only **one way** to choose all four suits:
 
-   $$
-   \binom{4}{4} = 1
-   $$
+ $$
+ \binom{4}{4} = 1
+ $$
 
 4. **Choose One Card from the Remaining Deck: $$ \binom{48}{1} $$**
    - After selecting the four cards of the same rank, 48 cards remain in the deck.
    - We need to choose **one** card to complete the hand.
 
-   $$
-   \binom{48}{1} = 48
-   $$
+ $$
+ \binom{48}{1} = 48
+ $$
 
 ---
 
