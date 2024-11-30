@@ -64,7 +64,7 @@ $$
 
 You can adjust calculations for other poker variants or include probabilities for community cards in **Texas Hold'em**. Let me know if you'd like to explore this further!
 
-Let's break down the calculation for **Four of a Kind** to understand why $$ C(13, 1) \times C(12, 1) \times C(4, 4) \times C(48, 1) = 624 $$:
+Let's break down the calculation for **Four of a Kind** to understand why $` \binom{13}{1} \times \binom{12}{1} \times \binom{4}{4} \times \binom{48}{1} = 624 `$:
 
 ---
 
@@ -72,22 +72,22 @@ Let's break down the calculation for **Four of a Kind** to understand why $$ C(1
 
 A **Four of a Kind** is a poker hand consisting of:
 
-- Four cards of the same rank (e.g., four Kings: $$ \heartsuit K, \clubsuit K, \spadesuit K, \diamondsuit K $$),
+- Four cards of the same rank (e.g., four Kings: $` \heartsuit K, \clubsuit K, \spadesuit K, \diamondsuit K `$),
 - One additional card of any rank (not matching the four of a kind).
 
 ---
 
 ### **Breaking Down the Calculation**
 
-1. **Choose the Rank for the Four of a Kind: $$ \binom{13}{1} $$**
-   - There are 13 possible ranks ($$ \text{A, 2, 3, ..., K} $$).
+1. **Choose the Rank for the Four of a Kind: $` \binom{13}{1} `$**
+   - There are 13 possible ranks ($` \text{A, 2, 3, ..., K} `$).
    - We need to choose **one** rank for our Four of a Kind.
 
  $$
  \binom{13}{1} = 13
  $$
 
-2. **Choose the Rank for the Additional Card: $$ \binom{12}{1} $$**
+2. **Choose the Rank for the Additional Card: $` \binom{12}{1} `$**
    - After selecting the rank for the Four of a Kind, 12 ranks remain for the fifth card.
    - We need to choose **one** of these remaining ranks.
 
@@ -95,15 +95,15 @@ A **Four of a Kind** is a poker hand consisting of:
  \binom{12}{1} = 12
  $$
 
-3. **Choose All Four Suits for the Four of a Kind: $$ \binom{4}{4} $$**
-   - For the Four of a Kind, we need all four suits (e.g., $$ \heartsuit, \clubsuit, \spadesuit, \diamondsuit $$).
+3. **Choose All Four Suits for the Four of a Kind: $` \binom{4}{4} `$**
+   - For the Four of a Kind, we need all four suits (e.g., $` \heartsuit, \clubsuit, \spadesuit, \diamondsuit `$).
    - There is only **one way** to choose all four suits:
 
  $$
  \binom{4}{4} = 1
  $$
 
-4. **Choose One Card from the Remaining Deck: $$ \binom{48}{1} $$**
+4. **Choose One Card from the Remaining Deck: $` \binom{48}{1} `$**
    - After selecting the four cards of the same rank, 48 cards remain in the deck.
    - We need to choose **one** card to complete the hand.
 
@@ -133,10 +133,10 @@ $$
 
 This formula counts all possible ways to form a valid Four of a Kind hand:
 
-1. First, choose the rank for the Four of a Kind ($$ 13 $$ choices).
-2. Then, choose the rank for the kicker (the additional card, $$ 12 $$ choices).
-3. Next, select all four suits for the Four of a Kind ($$ 1 $$ way).
-4. Finally, pick one card from the remaining deck ($$ 48 $$ ways).
+1. First, choose the rank for the Four of a Kind ($` 13 `$ choices).
+2. Then, choose the rank for the kicker (the additional card, $` 12 `$ choices).
+3. Next, select all four suits for the Four of a Kind ($` 1 `$ way).
+4. Finally, pick one card from the remaining deck ($` 48 `$ ways).
 
 This ensures all valid combinations are counted without overcounting or missing any possibilities. 
 
