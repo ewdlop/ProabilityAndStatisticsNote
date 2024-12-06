@@ -91,3 +91,8 @@ Tarot cards can be used to expand traditional playing card games like Poker, Rum
 
 ### **Flexibility and Fun:**
 These expansions can adapt to many card games, adding variety and unique twists. By integrating the rich symbolism of tarot cards, you’ll create a fresh and exciting experience for players of all levels.
+
+
+# OR JUST CALLED IT UNO
+
+
