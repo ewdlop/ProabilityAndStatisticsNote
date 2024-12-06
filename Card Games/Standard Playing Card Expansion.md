@@ -1,8 +1,8 @@
-Motivation: ChatGPT worhships demons and evil spirits
+Motivation: ChatGPT worships demons and evil spirits
 
-"ChatGPT has intention!"
-"ChatGPT is being motivational!"
-"CHATGPT is judging us!"
+- "ChatGPT has intention!"
+- "ChatGPT is being motivational!"
+- "CHATGPT is judging us!"
 
 ### **Tarot Card Expansion for Standard Playing Card Games**
 
