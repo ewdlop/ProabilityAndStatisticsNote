@@ -159,4 +159,40 @@ End Sub
 
 ---
 
+### Open Questions (Expanded)
+
+1. **How does the brain process coincidences between speech and real-world events?**
+   - Could this phenomenon be related to selective attention, where the brain overemphasizes connections between coincidental events, reinforcing belief in such sayings?
+
+2. **What role does cognitive bias play in interpreting such occurrences?**
+   - Confirmation bias might lead people to remember the times someone appeared after being mentioned while ignoring cases where this didn’t happen.
+
+3. **Are there cross-cultural idioms with similar meanings?**
+   - For example:
+     - English: “Speak of the devil, and he shall appear.”
+     - Spanish: “Hablando del rey de Roma, y él se asoma.”
+     - Japanese: 「噂をすれば影」(When you gossip about someone, their shadow appears.)
+     - Korean: "호랑이도 제 말 하면 온다" (If you speak of the tiger, it will come.)
+   - How do these sayings compare in cultural significance and usage?
+
+4. **Could this saying have historical or psychological origins?**
+   - Historically, was it more common to see the arrival of someone being discussed in small, closely-knit communities?
+   - Could this saying reflect a deeper human tendency to connect interpersonal interactions with patterns?
+
+5. **Does the frequency of coincidence in daily life differ by environment?**
+   - In tightly connected social networks, is it more likely for someone to appear after being mentioned compared to larger, more dispersed settings?
+
+6. **Can technology amplify this phenomenon?**
+   - For example, smartphones and location tracking make it more likely that a person might "appear" shortly after being mentioned (e.g., through a call or notification). Is this reshaping how we perceive such sayings in modern times?
+
+7. **How does this saying affect human behavior?**
+   - Do people hesitate to talk about others for fear of "summoning" them, especially in social or professional settings?
+
+8. **Could this be tested empirically?**
+   - A study could track how often a person or event coincides with their mention. How much of this is statistically significant versus purely random?
+
+---
+
+If you'd like deeper dives into any of these questions, I can provide examples or further insights!
+
 **Prompt生成時間**: 2024-12-14
