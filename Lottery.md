@@ -1,5 +1,8 @@
 # Expected Value
 
+Vacuum expected value of the universe is 
+I meant what could we expect from the VACCUM? HOW much force it needs to generate to keep itself empty?
+
 # Do the odds stack up?
 
 **(1) 修正後的用文的句子：**  
